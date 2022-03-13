@@ -7,7 +7,6 @@ import (
 
 	"github.com/0hwan/monkey/lexer"
 	"github.com/0hwan/monkey/token"
-	"github.com/gobwas/glob/syntax/lexer"
 )
 
 const PROMPT = ">>"
